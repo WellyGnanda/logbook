@@ -1,0 +1,6 @@
+server:
+    port: ":3254"
+database:
+    master: "ADF:d3v3l0p8015@tcp(34.87.44.167:3306)/upload-download-vb?parseTime=true"
+firebase:
+    projectID: "neogenesis-2a947"
